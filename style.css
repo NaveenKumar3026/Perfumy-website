@@ -5,7 +5,7 @@ style{
     }
     nav{
         background-color: black;
-        color: white;
+        color: blue;
 
         li,ul,h1{
             display: inline;
